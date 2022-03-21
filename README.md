@@ -1,7 +1,7 @@
 # LanceBot 
 
 The beginnings of a two-wheeled bipedal platform robot for experimenting with and implementing self balancing controllers.
-[See portfolio post] (https://kjwelbeck3.vercel.app/projects/lancebot_1)
+[See portfolio post](https://kjwelbeck3.vercel.app/projects/lancebot_1)
 
 
 ## Mechanical Design
